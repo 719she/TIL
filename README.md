@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# 스타터 노트
+# _김경필_ 의 TIL
 
 </header>
 
@@ -17,15 +17,14 @@
   The first step is always the hardest, so pick something easy!
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
--->
+--> 
 
-## Step 1: Enable GitHub Pages
+  
+## 프로필
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
+웹개발자를 꿈꾸는 26세 남자 대학생입니다.
+  
+### :keyboard: 스타터 노트 / Spring 트랙을 신청한 이유
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Under your repository name, click **Settings**.
