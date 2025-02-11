@@ -24,7 +24,9 @@
 
 웹개발자를 꿈꾸는 26세 남자 대학생입니다.
   
-1. 스타터 메모 (https://github.com/719she/TIL/blob/main/%EC%8A%A4%ED%83%80%ED%84%B0%20%EB%85%B8%ED%8A%B8.md)
+#[스타터 메모] (https://github.com/719she/TIL/blob/main/%EC%8A%A4%ED%83%80%ED%84%B0%20%EB%85%B8%ED%8A%B8.md)
+
+
 <footer>
 
 <!--
